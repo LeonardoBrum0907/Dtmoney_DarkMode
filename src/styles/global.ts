@@ -63,7 +63,7 @@ export const GlobalStyle = createGlobalStyle`
 
         input {
             background: ${props => props.theme.colors.shape};
-            color: white;
+            color:  ${props => props.theme.colors.textTitle};
         }
     }
 
