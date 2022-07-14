@@ -44,19 +44,9 @@ $ npm install
 
 # Built With
 
-- [NextJS](https://nextjs.org/docs) - Build app using ReactJS, NextJS and Typescript.
-- [React-Query](https://react-query-v2.tanstack.com/overview) - React State Manager.
-- [React-Hook-Form](https://react-hook-form.com/get-started) - Form validation.
-- [Apexcharts](https://apexcharts.com/docs/react-charts/) - Create charts.
-- [React-Icons](https://react-icons.github.io/react-icons/) - Icons 👨‍💻
+- [ReactJS](https://nextjs.org/docs) - Build app using ReactJS and Typescript.
+- [React-Modal](https://reactcommunity.org/react-modal/) - Modal Component.
 - [Axios](https://axios-http.com/docs/intro) - HTTP Client.
 - [MirageJS](https://miragejs.com/docs/getting-started/introduction/) - Fake API.
-- [FakerJS](https://fakerjs.dev/guide/) - Create random data.
-- [Chakra-UI](https://chakra-ui.com/getting-started/nextjs-guide) - Styles.
-
-##
-
-<div align="center">
-  <img width="500px" src="src/assets/underConstruction.png">
-</div>
+- [Styled-Components](https://styled-components.com/) - Styles.
 
